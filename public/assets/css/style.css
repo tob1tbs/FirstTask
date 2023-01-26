@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'HelveticaRegular';
+        src: url('../fonts/Linotype-HelveticaNeueLTGEO55Roman.ttf');
+}
+
+@font-face {
+    font-family: 'HelveticaBold';
+        src: url('../fonts/Linotype-HelveticaNeueLTGEO75Bold.ttf');
+}
+
+@font-face {
+    font-family: 'neue-geo-caps';
+    src: url('../fonts/helvetica-neue-lt-geo-55-roman-caps.ttf');
+}
+
+.font-helvetica-regular {
+    font-family: 'HelveticaRegular';
+}
+
+.font-neue {
+    font-family: 'neue-geo-caps' !important;
+}
+
+.toast-title {
+    font-family: neue-geo-caps;
+}
+
+.toast-message {
+    font-family: HelveticaRegular;
+}
+
+.btn {
+    font-family: neue-geo-caps;
+}
